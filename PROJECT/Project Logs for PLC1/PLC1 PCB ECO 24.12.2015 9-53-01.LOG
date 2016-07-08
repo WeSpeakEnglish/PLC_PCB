@@ -1,0 +1,62 @@
+Removed Member From Class: ClassName=PLC1_3 Member=C51
+Removed Member From Class: ClassName=PLC1_3 Member=C53
+Removed Member From Class: ClassName=PLC1_2 Member=C78
+Removed Member From Class: ClassName=PLC1_2 Member=C79
+Removed Member From Class: ClassName=PLC1_2 Member=C95
+Removed Member From Class: ClassName=PLC1_3 Member=C97
+Removed Member From Class: ClassName=PLC1_2 Member=R46
+Removed Member From Class: ClassName=PLC1_2 Member=R50
+Removed Member From Class: ClassName=PLC1_2 Member=R60
+Removed Member From Class: ClassName=PLC1_2 Member=R67
+Removed Member From Class: ClassName=PLC1_2 Member=R68
+Removed Member From Class: ClassName=PLC1_2 Member=R71
+Removed Member From Class: ClassName=PLC1_2 Member=R73
+Removed Member From Class: ClassName=PLC1_3 Member=R73
+Removed Member From Class: ClassName=PLC1_3 Member=R74
+Removed Member From Class: ClassName=PLC1_3 Member=R85
+Removed Member From Class: ClassName=PLC1_2 Member=R86
+Removed Member From Class: ClassName=PLC1_3 Member=R86
+Removed Member From Class: ClassName=PLC1_3 Member=R87
+Removed Member From Class: ClassName=PLC1_3 Member=R88
+Removed Member From Class: ClassName=PLC1_3 Member=R98
+Removed Member From Class: ClassName=PLC1_3 Member=R99
+Removed Member From Class: ClassName=PLC1_3 Member=R100
+Removed Member From Class: ClassName=PLC1_3 Member=R101
+Removed Member From Class: ClassName=PLC1_3 Member=R105
+Added Member To Class: ClassName=PLC1_2 Member=Component C51 0.1uF
+Added Member To Class: ClassName=PLC1_2 Member=Component C52 0.1uF
+Added Member To Class: ClassName=PLC1_2 Member=Component C59 1uF
+Added Member To Class: ClassName=PLC1_2 Member=Component C62 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C77 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C89 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C94 0.22 F
+Added Member To Class: ClassName=PLC1_4 Member=Component C95 1uF
+Added Member To Class: ClassName=PLC1_2 Member=Component R28 4,7k
+Added Member To Class: ClassName=PLC1_2 Member=Component R31 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R32 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R33 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R34 4,7k
+Added Member To Class: ClassName=PLC1_2 Member=Component R35 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R36 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R37 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R38 Res_0402
+Added Member To Class: ClassName=PLC1_2 Member=Component R39 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component R40 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component R41 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component R42 120
+Added Member To Class: ClassName=PLC1_3 Member=Component R43 120
+Added Member To Class: ClassName=PLC1_3 Member=Component R44 120
+Added Member To Class: ClassName=PLC1_3 Member=Component R45 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component R46 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component R55 22
+Added Member To Class: ClassName=PLC1_3 Member=Component R61 51k
+Added Member To Class: ClassName=PLC1_3 Member=Component R65 Res_1206
+Added Member To Class: ClassName=PLC1_3 Member=Component R66 4,7k
+Added Member To Class: ClassName=PLC1_4 Member=Component R73 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R74 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R75 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R76 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R77 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R78 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R79 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R80 Res_0402

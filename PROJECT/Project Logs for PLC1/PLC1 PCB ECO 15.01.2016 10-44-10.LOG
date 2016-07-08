@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=PLC1 Member=C61
+Removed Member From Class: ClassName=PLC1_4 Member=C107
+Removed Member From Class: ClassName=PLC1_3 Member=C108
+Added Pin To Net: NetName=VCC Pin=DA5-4
+Added Member To Class: ClassName=PLC1 Member=Component C56 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C107 0.22 F

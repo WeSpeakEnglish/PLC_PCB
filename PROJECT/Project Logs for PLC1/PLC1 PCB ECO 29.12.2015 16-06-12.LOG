@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetC89_1 Pin=C89-1
+Removed Pin From Net: NetName=I2C2_SDA Pin=R51-1
+Removed Pin From Net: NetName=VCC Pin=R51-2
+Removed Pin From Net: NetName=VCC Pin=R52-1
+Removed Pin From Net: NetName=I2C2_SCL Pin=R52-2
+Removed Pin From Net: NetName=VCC Pin=R53-1
+Removed Pin From Net: NetName=NetC89_1 Pin=R53-2
+Removed Pin From Net: NetName=I2C2_SDA Pin=XP5-1
+Removed Pin From Net: NetName=I2C2_SCL Pin=XP5-2
+Removed Pin From Net: NetName=NetC89_1 Pin=XP5-3
+Removed Pin From Net: NetName=GND Pin=XP5-4
+Removed Pin From Net: NetName=NetVT2_2 Pin=XP5-5
+Removed Pin From Net: NetName=NetVT2_2 Pin=XP5-6
+Removed Member From Class: ClassName=PLC1_3 Member=R53
+Removed Member From Class: ClassName=PLC1_3 Member=XP5
+Change Component Footprint: Designator=R52 Old Footprint=RES_0603 New Footprint=PLS4-R
+Change Component Footprint: Designator=R51 Old Footprint=RES_0603 New Footprint=TO-92
+Change Component Comment : Designator=R1 Old Comment=3 New Comment=2,7
+Change Component Comment : Designator=R51 Old Comment=4,7k New Comment=DS18B20+T&R
+Change Component Comment : Designator=R52 Old Comment=4,7k New Comment=PLS4-R
+Change Component Designator: OldDesignator=R51 NewDesignator=DD345
+Change Component Designator: OldDesignator=R52 NewDesignator=XP5
+Added Pin To Net: NetName=VCC Pin=C89-1
+Added Pin To Net: NetName=NetC89_1 Pin=DD1-56
+Added Pin To Net: NetName=GND Pin=DD345-1
+Added Pin To Net: NetName=NetC89_1 Pin=DD345-2
+Added Pin To Net: NetName=VCC Pin=DD345-3
+Added Pin To Net: NetName=NetVT2_2 Pin=XP5-3
+Added Pin To Net: NetName=NetVT2_2 Pin=XP5-4
+Change Net Name : Old Net Name=NetC89_1 New Net Name=1W_TEMP

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [KEY_PLC1.PrjPcb]
+   Generated File[KEY_PLC1.TXT]
+   Generated File[KEY_PLC1.LDP]
+   Generated File[KEY_PLC1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:19:19 On 26.02.2016

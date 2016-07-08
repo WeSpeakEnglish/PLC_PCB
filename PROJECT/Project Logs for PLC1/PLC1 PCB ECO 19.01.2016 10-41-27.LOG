@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=PLC1_3 Member=C94
+Removed Member From Class: ClassName=PLC1_2 Member=C105
+Removed Member From Class: ClassName=PLC1_3 Member=R38
+Added Component: Designator=XP5(WF-16MR)
+Added Pin To Net: NetName=RS-485B/232T Pin=XP5-1
+Added Pin To Net: NetName=RS-485A/232R Pin=XP5-2
+Added Pin To Net: NetName=CANH1 Pin=XP5-3
+Added Pin To Net: NetName=CANL1 Pin=XP5-4
+Added Pin To Net: NetName=CANH2 Pin=XP5-5
+Added Pin To Net: NetName=CANL2 Pin=XP5-6
+Added Pin To Net: NetName=NetR68_1 Pin=XP5-7
+Added Pin To Net: NetName=NetR66_1 Pin=XP5-8
+Added Pin To Net: NetName=NetVD9_2 Pin=XP5-9
+Added Pin To Net: NetName=NetVD11_2 Pin=XP5-10
+Added Pin To Net: NetName=+24V Pin=XP5-11
+Added Pin To Net: NetName=GND Pin=XP5-12
+Added Pin To Net: NetName=GND Pin=XP5-13
+Added Pin To Net: NetName=SWCLK Pin=XP5-14
+Added Pin To Net: NetName=SWDIO Pin=XP5-15
+Added Pin To Net: NetName=SWO Pin=XP5-16
+Added Member To Class: ClassName=PLC1_2 Member=Component C95 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C96 0.1uF
+Added Member To Class: ClassName=PLC1_2 Member=Component R38 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component R39 4,7k
+Added Member To Class: ClassName=PLC1_3 Member=Component XP5 WF-16MR
+Added Member To Class: ClassName=PLC1_3 Member=Component XS4 CONNECT_2.54_6

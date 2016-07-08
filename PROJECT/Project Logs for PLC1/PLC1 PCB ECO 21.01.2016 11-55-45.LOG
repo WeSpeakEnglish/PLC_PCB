@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C99 NewDesignator=C102
+Change Component Designator: OldDesignator=C100 NewDesignator=C99
+Change Component Designator: OldDesignator=C101 NewDesignator=C100
+Change Component Designator: OldDesignator=C102 NewDesignator=C101
+Change Component Designator: OldDesignator=XP1 NewDesignator=XP2
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP1
+Added Component: Designator=L13(R_IND_0603)
+Added Pin To Net: NetName=VDD_USB Pin=L13-1
+Added Pin To Net: NetName=NetC117_2 Pin=L13-2
+Change Net Name : Old Net Name=NetC99_1 New Net Name=NetC102_1
+Added Member To Class: ClassName=PLC1_4 Member=Component L13 BLM18PG471SH1D

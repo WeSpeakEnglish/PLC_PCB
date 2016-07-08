@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VCC Pin=C96-1
+Added Pin To Net: NetName=VCC Pin=DD7-15
+Added Member To Class: ClassName=PLC1_2 Member=Component R22 4,7k

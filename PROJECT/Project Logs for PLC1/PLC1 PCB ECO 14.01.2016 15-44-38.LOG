@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=PLC1_4 Member=R70
+Added Member To Class: ClassName=PLC1 Member=Component R15 1k
+Added Member To Class: ClassName=PLC1_4 Member=Component R71 Res_0402

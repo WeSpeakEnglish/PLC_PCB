@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=1W_TEMP Pin=DD1-56
+Added Pin To Net: NetName=TW8819_RESET Pin=DD1-56
+Added Pin To Net: NetName=1W_TEMP Pin=DD1-107

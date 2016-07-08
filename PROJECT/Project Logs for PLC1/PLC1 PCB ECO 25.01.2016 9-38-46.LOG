@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=C101 NewDesignator=C102
+Change Component Designator: OldDesignator=C102 NewDesignator=C101
+Change Component Designator: OldDesignator=C106 NewDesignator=C110
+Change Component Designator: OldDesignator=C107 NewDesignator=C106
+Change Component Designator: OldDesignator=C108 NewDesignator=C107
+Change Component Designator: OldDesignator=C109 NewDesignator=C108
+Change Component Designator: OldDesignator=C110 NewDesignator=C109
+Change Component Designator: OldDesignator=DD8 NewDesignator=DD10
+Change Component Designator: OldDesignator=DD9 NewDesignator=DD8
+Change Component Designator: OldDesignator=DD10 NewDesignator=DD9
+Change Component Designator: OldDesignator=R41 NewDesignator=R43
+Change Component Designator: OldDesignator=R42 NewDesignator=R41
+Change Component Designator: OldDesignator=R43 NewDesignator=R42
+Change Component Designator: OldDesignator=XP1 NewDesignator=XP2
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP1
+Change Component Designator: OldDesignator=XP5 NewDesignator=XP7
+Change Component Designator: OldDesignator=XP6 NewDesignator=XP8
+Change Component Designator: OldDesignator=XP7 NewDesignator=XP9
+Added Component: Designator=XP5(JMPTOPOLOGY)
+Added Component: Designator=XP6(JMPTOPOLOGY)
+Added Pin To Net: NetName=RS-485B/232T Pin=XP5-1
+Added Pin To Net: NetName=USART3_TX Pin=XP5-2
+Added Pin To Net: NetName=RS-485A/232R Pin=XP6-1
+Added Pin To Net: NetName=USART3_RX Pin=XP6-2
+Change Net Name : Old Net Name=NetC102_1 New Net Name=NetC101_1
+Change Net Name : Old Net Name=NetDD9_8 New Net Name=NetDD8_8
+Change Net Name : Old Net Name=NetDD10_8 New Net Name=NetDD9_8
+Change Net Name : Old Net Name=NetR41_2 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetR43_2 New Net Name=NetR42_2
+Added Member To Class: ClassName=PLC1_3 Member=Component XP8 640457-2
+Added Member To Class: ClassName=PLC1_3 Member=Component XP9 1-640457-6

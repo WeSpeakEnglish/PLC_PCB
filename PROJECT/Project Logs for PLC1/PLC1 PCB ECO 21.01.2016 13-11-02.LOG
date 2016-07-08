@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SWCLK Pin=C106-1
+Added Pin To Net: NetName=SWDIO Pin=C106-1
+Added Member To Class: ClassName=PLC1_4 Member=Component DA12 LM4667MM/NOPB

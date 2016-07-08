@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetR53_1 Pin=XP6-1
+Removed Pin From Net: NetName=NetR54_1 Pin=XP6-2
+Removed Pin From Net: NetName=NetR55_1 Pin=XP6-3
+Removed Pin From Net: NetName=NetR56_1 Pin=XP6-4
+Removed Pin From Net: NetName=COL1 Pin=XP6-5
+Removed Pin From Net: NetName=COL2 Pin=XP6-6
+Removed Pin From Net: NetName=NetR66_2 Pin=XP6-7
+Removed Pin From Net: NetName=LEDK Pin=XP6-8
+Removed Member From Class: ClassName=PLC1_3 Member=XP6
+Added Component: Designator=XS(0522710879)
+Added Pin To Net: NetName=NetR53_1 Pin=XS-1
+Added Pin To Net: NetName=NetR54_1 Pin=XS-2
+Added Pin To Net: NetName=NetR55_1 Pin=XS-3
+Added Pin To Net: NetName=NetR56_1 Pin=XS-4
+Added Pin To Net: NetName=COL1 Pin=XS-5
+Added Pin To Net: NetName=COL2 Pin=XS-6
+Added Pin To Net: NetName=NetR66_2 Pin=XS-7
+Added Pin To Net: NetName=LEDK Pin=XS-8
+Added Member To Class: ClassName=PLC1_3 Member=Component XS 0522710879

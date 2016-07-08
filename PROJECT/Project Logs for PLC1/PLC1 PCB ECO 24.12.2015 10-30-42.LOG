@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=PLC1 Member=C51
+Removed Member From Class: ClassName=PLC1 Member=C52
+Removed Member From Class: ClassName=PLC1_2 Member=C81
+Removed Member From Class: ClassName=PLC1_2 Member=C82
+Added Member To Class: ClassName=PLC1 Member=Component C30 1206
+Added Member To Class: ClassName=PLC1 Member=Component C31 1206
+Added Member To Class: ClassName=PLC1_2 Member=Component C60 100p
+Added Member To Class: ClassName=PLC1_2 Member=Component C79 0.1uF

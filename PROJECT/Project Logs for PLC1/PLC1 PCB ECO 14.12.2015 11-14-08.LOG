@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=OTG_FS_DP Pin=DA8-1
+Removed Pin From Net: NetName=GND Pin=DA8-2
+Removed Pin From Net: NetName=OTG_FS_DM Pin=DA8-3
+Removed Pin From Net: NetName=VCC Pin=DA8-5
+Removed Pin From Net: NetName=GND Pin=XS4-5
+Removed Pin From Net: NetName=GND Pin=XS4-6
+Removed Pin From Net: NetName=GND Pin=XS4-6
+Removed Pin From Net: NetName=GND Pin=XS4-6
+Removed Pin From Net: NetName=GND Pin=XS4-6
+Removed Member From Class: ClassName=PLC1_3 Member=DA8
+Removed Member From Class: ClassName=PLC1_3 Member=XS4
+Added Pin To Net: NetName=OTG_FS_DM Pin=DA9-1
+Added Pin To Net: NetName=OTG_FS_DP Pin=DA9-3

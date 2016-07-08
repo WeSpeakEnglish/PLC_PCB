@@ -1,0 +1,106 @@
+Removed Member From Class: ClassName=PLC1_3 Member=DD345
+Change Component Designator: OldDesignator=DD11 NewDesignator=DD12
+Change Component Designator: OldDesignator=DD12 NewDesignator=DD13
+Change Component Designator: OldDesignator=DD13 NewDesignator=DD14
+Change Component Designator: OldDesignator=DD345 NewDesignator=DD11
+Change Component Designator: OldDesignator=R54 NewDesignator=R51
+Change Component Designator: OldDesignator=R55 NewDesignator=R52
+Change Component Designator: OldDesignator=R56 NewDesignator=R53
+Change Component Designator: OldDesignator=R57 NewDesignator=R54
+Change Component Designator: OldDesignator=R58 NewDesignator=R55
+Change Component Designator: OldDesignator=R59 NewDesignator=R56
+Change Component Designator: OldDesignator=R60 NewDesignator=R57
+Change Component Designator: OldDesignator=R61 NewDesignator=R58
+Change Component Designator: OldDesignator=R62 NewDesignator=R59
+Change Component Designator: OldDesignator=R63 NewDesignator=R60
+Change Component Designator: OldDesignator=R64 NewDesignator=R61
+Change Component Designator: OldDesignator=R65 NewDesignator=R62
+Change Component Designator: OldDesignator=R66 NewDesignator=R63
+Change Component Designator: OldDesignator=R67 NewDesignator=R64
+Change Component Designator: OldDesignator=R68 NewDesignator=R65
+Change Component Designator: OldDesignator=R69 NewDesignator=R66
+Change Component Designator: OldDesignator=R70 NewDesignator=R67
+Change Component Designator: OldDesignator=R71 NewDesignator=R68
+Change Component Designator: OldDesignator=R72 NewDesignator=R69
+Change Component Designator: OldDesignator=R73 NewDesignator=R70
+Change Component Designator: OldDesignator=R74 NewDesignator=R71
+Change Component Designator: OldDesignator=R75 NewDesignator=R72
+Change Component Designator: OldDesignator=R76 NewDesignator=R73
+Change Component Designator: OldDesignator=R77 NewDesignator=R74
+Change Component Designator: OldDesignator=R78 NewDesignator=R75
+Change Component Designator: OldDesignator=R79 NewDesignator=R76
+Change Component Designator: OldDesignator=R80 NewDesignator=R77
+Change Component Designator: OldDesignator=R81 NewDesignator=R78
+Change Component Designator: OldDesignator=R82 NewDesignator=R79
+Change Component Designator: OldDesignator=R83 NewDesignator=R80
+Change Component Designator: OldDesignator=R84 NewDesignator=R81
+Change Component Designator: OldDesignator=R85 NewDesignator=R82
+Change Component Designator: OldDesignator=R86 NewDesignator=R83
+Change Component Designator: OldDesignator=R87 NewDesignator=R84
+Change Component Designator: OldDesignator=R88 NewDesignator=R85
+Change Component Designator: OldDesignator=R89 NewDesignator=R86
+Change Component Designator: OldDesignator=R90 NewDesignator=R87
+Change Component Designator: OldDesignator=R91 NewDesignator=R88
+Change Component Designator: OldDesignator=R92 NewDesignator=R89
+Change Component Designator: OldDesignator=R93 NewDesignator=R90
+Change Component Designator: OldDesignator=R94 NewDesignator=R91
+Change Component Designator: OldDesignator=R95 NewDesignator=R92
+Change Component Designator: OldDesignator=R96 NewDesignator=R93
+Change Component Designator: OldDesignator=R97 NewDesignator=R94
+Change Component Designator: OldDesignator=R98 NewDesignator=R95
+Change Component Designator: OldDesignator=R99 NewDesignator=R96
+Change Component Designator: OldDesignator=R100 NewDesignator=R97
+Change Component Designator: OldDesignator=R101 NewDesignator=R98
+Change Component Designator: OldDesignator=R102 NewDesignator=R99
+Change Component Designator: OldDesignator=R103 NewDesignator=R100
+Change Component Designator: OldDesignator=R104 NewDesignator=R101
+Change Component Designator: OldDesignator=R105 NewDesignator=R102
+Change Component Designator: OldDesignator=R106 NewDesignator=R103
+Change Component Designator: OldDesignator=R107 NewDesignator=R104
+Change Component Designator: OldDesignator=R108 NewDesignator=R105
+Change Net Name : Old Net Name=NetDD12_6 New Net Name=NetDD13_6
+Change Net Name : Old Net Name=NetDD12_9 New Net Name=NetDD13_9
+Change Net Name : Old Net Name=NetDD12_11 New Net Name=NetDD13_11
+Change Net Name : Old Net Name=NetDD12_14 New Net Name=NetDD13_14
+Change Net Name : Old Net Name=NetDD13_11 New Net Name=NetDD14_11
+Change Net Name : Old Net Name=NetDD13_13 New Net Name=NetDD14_13
+Change Net Name : Old Net Name=NetDD13_14 New Net Name=NetDD14_14
+Change Net Name : Old Net Name=NetDD13_15 New Net Name=NetDD14_15
+Change Net Name : Old Net Name=NetDD13_16 New Net Name=NetDD14_16
+Change Net Name : Old Net Name=NetDD13_17 New Net Name=NetDD14_17
+Change Net Name : Old Net Name=NetDD13_19 New Net Name=NetDD14_19
+Change Net Name : Old Net Name=NetDD13_20 New Net Name=NetDD14_20
+Change Net Name : Old Net Name=NetDD13_21 New Net Name=NetDD14_21
+Change Net Name : Old Net Name=NetDD13_23 New Net Name=NetDD14_23
+Change Net Name : Old Net Name=NetDD13_24 New Net Name=NetDD14_24
+Change Net Name : Old Net Name=NetDD13_26 New Net Name=NetDD14_26
+Change Net Name : Old Net Name=NetDD13_27 New Net Name=NetDD14_27
+Change Net Name : Old Net Name=NetDD13_28 New Net Name=NetDD14_28
+Change Net Name : Old Net Name=NetDD13_29 New Net Name=NetDD14_29
+Change Net Name : Old Net Name=NetDD13_30 New Net Name=NetDD14_30
+Change Net Name : Old Net Name=NetDD13_31 New Net Name=NetDD14_31
+Change Net Name : Old Net Name=NetDD13_32 New Net Name=NetDD14_32
+Change Net Name : Old Net Name=NetDD13_33 New Net Name=NetDD14_33
+Change Net Name : Old Net Name=NetDD13_34 New Net Name=NetDD14_34
+Change Net Name : Old Net Name=NetDD13_35 New Net Name=NetDD14_35
+Change Net Name : Old Net Name=NetDD13_38 New Net Name=NetDD14_38
+Change Net Name : Old Net Name=NetDD13_39 New Net Name=NetDD14_39
+Change Net Name : Old Net Name=NetDD13_40 New Net Name=NetDD14_40
+Change Net Name : Old Net Name=NetDD13_41 New Net Name=NetDD14_41
+Change Net Name : Old Net Name=NetDD13_43 New Net Name=NetDD14_43
+Change Net Name : Old Net Name=NetDD13_44 New Net Name=NetDD14_44
+Change Net Name : Old Net Name=NetDD13_45 New Net Name=NetDD14_45
+Change Net Name : Old Net Name=NetDD13_46 New Net Name=NetDD14_46
+Change Net Name : Old Net Name=NetR55_2 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR53_1
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR54_1
+Change Net Name : Old Net Name=NetR58_1 New Net Name=NetR55_1
+Change Net Name : Old Net Name=NetR59_1 New Net Name=NetR56_1
+Change Net Name : Old Net Name=NetR65_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR68_1 New Net Name=NetR65_1
+Change Net Name : Old Net Name=NetR69_2 New Net Name=NetR66_2
+Change Net Name : Old Net Name=NetR70_1 New Net Name=NetR67_1
+Change Net Name : Old Net Name=NetR71_2 New Net Name=NetR68_2
+Change Net Name : Old Net Name=NetR72_1 New Net Name=NetR69_1
+Added Member To Class: ClassName=PLC1_3 Member=Component DD13 L26 Quectel
+Added Member To Class: ClassName=PLC1_3 Member=Component XP5 PLS4-R

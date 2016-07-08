@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=CAN1_CONT Pin=DD1-1
+Added Member To Class: ClassName=PLC1_3 Member=Component R42 120

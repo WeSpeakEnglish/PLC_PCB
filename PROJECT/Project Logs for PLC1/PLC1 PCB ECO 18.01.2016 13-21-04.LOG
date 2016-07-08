@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=PPS_GPS Pin=DD13-3
+Removed Pin From Net: NetName=USART2_RX Pin=DD13-20
+Removed Pin From Net: NetName=USART2_TX Pin=DD13-21
+Change Component Designator: OldDesignator=R62 NewDesignator=R65
+Change Component Designator: OldDesignator=R63 NewDesignator=R66
+Change Component Designator: OldDesignator=R64 NewDesignator=R67
+Change Component Designator: OldDesignator=R65 NewDesignator=R68
+Change Component Designator: OldDesignator=R66 NewDesignator=R71
+Change Component Designator: OldDesignator=R67 NewDesignator=R69
+Change Component Designator: OldDesignator=R68 NewDesignator=R70
+Change Component Designator: OldDesignator=R69 NewDesignator=R72
+Change Component Designator: OldDesignator=R70 NewDesignator=R73
+Change Component Designator: OldDesignator=R71 NewDesignator=R74
+Change Component Designator: OldDesignator=R72 NewDesignator=R75
+Change Component Designator: OldDesignator=R73 NewDesignator=R76
+Change Component Designator: OldDesignator=R74 NewDesignator=R77
+Change Component Designator: OldDesignator=R75 NewDesignator=R78
+Change Component Designator: OldDesignator=R76 NewDesignator=R79
+Change Component Designator: OldDesignator=R77 NewDesignator=R80
+Change Component Designator: OldDesignator=R78 NewDesignator=R81
+Change Component Designator: OldDesignator=R79 NewDesignator=R82
+Change Component Designator: OldDesignator=R80 NewDesignator=R83
+Change Component Designator: OldDesignator=R81 NewDesignator=R84
+Change Component Designator: OldDesignator=R82 NewDesignator=R85
+Change Component Designator: OldDesignator=R83 NewDesignator=R86
+Change Component Designator: OldDesignator=R84 NewDesignator=R87
+Change Component Designator: OldDesignator=R85 NewDesignator=R88
+Change Component Designator: OldDesignator=R86 NewDesignator=R89
+Change Component Designator: OldDesignator=R87 NewDesignator=R90
+Change Component Designator: OldDesignator=R88 NewDesignator=R91
+Change Component Designator: OldDesignator=R89 NewDesignator=R92
+Change Component Designator: OldDesignator=R90 NewDesignator=R93
+Change Component Designator: OldDesignator=R91 NewDesignator=R94
+Change Component Designator: OldDesignator=R92 NewDesignator=R95
+Change Component Designator: OldDesignator=R93 NewDesignator=R96
+Change Component Designator: OldDesignator=R94 NewDesignator=R97
+Change Component Designator: OldDesignator=R95 NewDesignator=R98
+Change Component Designator: OldDesignator=R96 NewDesignator=R99
+Change Component Designator: OldDesignator=R97 NewDesignator=R100
+Change Component Designator: OldDesignator=R98 NewDesignator=R101
+Change Component Designator: OldDesignator=R99 NewDesignator=R102
+Change Component Designator: OldDesignator=R100 NewDesignator=R103
+Change Component Designator: OldDesignator=R101 NewDesignator=R104
+Change Component Designator: OldDesignator=R102 NewDesignator=R105
+Change Component Designator: OldDesignator=R103 NewDesignator=R106
+Change Component Designator: OldDesignator=R104 NewDesignator=R107
+Change Component Designator: OldDesignator=R105 NewDesignator=R108
+Change Component Designator: OldDesignator=R106 NewDesignator=R109
+Change Component Designator: OldDesignator=R107 NewDesignator=R110
+Added Component: Designator=R62(RES_0603)
+Added Component: Designator=R63(RES_0603)
+Added Component: Designator=R64(RES_0603)
+Added Pin To Net: NetName=USART2_TX Pin=R62-1
+Added Pin To Net: NetName=USART2_RX Pin=R63-1
+Added Pin To Net: NetName=PPS_GPS Pin=R64-1
+Change Net Name : Old Net Name=NetR64_1 New Net Name=NetR67_1
+Change Net Name : Old Net Name=NetR67_1 New Net Name=NetR69_1
+Change Net Name : Old Net Name=NetR68_2 New Net Name=NetR70_2
+Change Net Name : Old Net Name=NetR69_1 New Net Name=NetR72_1
+Change Net Name : Old Net Name=NetR70_2 New Net Name=NetR73_2
+Change Net Name : Old Net Name=NetR71_1 New Net Name=NetR74_1
+Added Pin To Net: NetName=NetDD13_3 Pin=DD13-3
+Added Pin To Net: NetName=NetDD13_3 Pin=R64-2
+Added Net: Name=NetDD13_3
+Added Pin To Net: NetName=NetDD13_20 Pin=DD13-20
+Added Pin To Net: NetName=NetDD13_20 Pin=R63-2
+Added Net: Name=NetDD13_20
+Added Pin To Net: NetName=NetDD13_21 Pin=DD13-21
+Added Pin To Net: NetName=NetDD13_21 Pin=R62-2
+Added Net: Name=NetDD13_21
+Added Member To Class: ClassName=PLC1_3 Member=Component R51 22
+Added Member To Class: ClassName=PLC1_3 Member=Component R54 22
+Added Member To Class: ClassName=PLC1_3 Member=Component R74 390

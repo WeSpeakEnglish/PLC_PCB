@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Added Component: Designator=R42(Res_2010)
+Added Pin To Net: NetName=CANH1 Pin=R42-1
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR43_2
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=XP3-1
+Added Net: Name=NetR42_2
+Added Member To Class: ClassName=PLC1_3 Member=Component R43 120

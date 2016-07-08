@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=XP5 NewDesignator=XP6
+Change Component Designator: OldDesignator=XP6 NewDesignator=XP7
+Change Component Designator: OldDesignator=XP7 NewDesignator=XP5
+Added Component: Designator=TP1(TEST POINT)
+Added Component: Designator=TP2(TEST POINT)
+Added Component: Designator=TP3(TEST POINT)
+Added Component: Designator=TP4(TEST POINT)
+Added Component: Designator=TP5(TEST POINT)
+Added Component: Designator=TP6(TEST POINT)
+Added Component: Designator=TP7(TEST POINT)
+Added Component: Designator=TP8(TEST POINT)
+Added Pin To Net: NetName=AVDD_DISP Pin=TP1-1
+Added Pin To Net: NetName=VDD_5V Pin=TP2-1
+Added Pin To Net: NetName=VLED+ Pin=TP3-1
+Added Pin To Net: NetName=VCC Pin=TP4-1
+Added Pin To Net: NetName=AVDPLL Pin=TP5-1
+Added Pin To Net: NetName=VDD18 Pin=TP6-1
+Added Pin To Net: NetName=VGH Pin=TP7-1
+Added Pin To Net: NetName=VGL Pin=TP8-1
+Added Member To Class: ClassName=PLC1 Member=Component TP1 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP2 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP3 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP4 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP5 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP6 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP7 JUMPER
+Added Member To Class: ClassName=PLC1 Member=Component TP8 JUMPER
+Added Member To Class: ClassName=PLC1_3 Member=Component XP7 JUMPER

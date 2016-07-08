@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=DD11-1
+Removed Pin From Net: NetName=1W_TEMP Pin=DD11-2
+Removed Member From Class: ClassName=PLC1_3 Member=DD13
+Change Component Footprint: Designator=DD11 Old Footprint=TO-92 New Footprint=WF-03MR
+Change Component Comment : Designator=DD11 Old Comment=DS18B20+T&R New Comment=WF-03MR
+Change Component Designator: OldDesignator=DD11 NewDesignator=XP5
+Change Component Designator: OldDesignator=DD12 NewDesignator=DD11
+Change Component Designator: OldDesignator=DD13 NewDesignator=DD12
+Change Component Designator: OldDesignator=DD14 NewDesignator=DD13
+Change Component Designator: OldDesignator=XP5 NewDesignator=XP6
+Change Component Designator: OldDesignator=XP6 NewDesignator=XP7
+Added Pin To Net: NetName=1W_TEMP Pin=XP5-1
+Added Pin To Net: NetName=GND Pin=XP5-2
+Change Net Name : Old Net Name=NetDD13_3 New Net Name=NetDD12_3
+Change Net Name : Old Net Name=NetDD13_6 New Net Name=NetDD12_6
+Change Net Name : Old Net Name=NetDD13_9 New Net Name=NetDD12_9
+Change Net Name : Old Net Name=NetDD13_11 New Net Name=NetDD12_11
+Change Net Name : Old Net Name=NetDD13_14 New Net Name=NetDD12_14
+Change Net Name : Old Net Name=NetDD13_20 New Net Name=NetDD12_20
+Change Net Name : Old Net Name=NetDD13_21 New Net Name=NetDD12_21
+Change Net Name : Old Net Name=NetDD14_11 New Net Name=NetDD13_11
+Change Net Name : Old Net Name=NetDD14_13 New Net Name=NetDD13_13
+Change Net Name : Old Net Name=NetDD14_14 New Net Name=NetDD13_14
+Change Net Name : Old Net Name=NetDD14_15 New Net Name=NetDD13_15
+Change Net Name : Old Net Name=NetDD14_16 New Net Name=NetDD13_16
+Change Net Name : Old Net Name=NetDD14_17 New Net Name=NetDD13_17
+Change Net Name : Old Net Name=NetDD14_19 New Net Name=NetDD13_19
+Change Net Name : Old Net Name=NetDD14_20 New Net Name=NetDD13_20
+Change Net Name : Old Net Name=NetDD14_21 New Net Name=NetDD13_21
+Change Net Name : Old Net Name=NetDD14_23 New Net Name=NetDD13_23
+Change Net Name : Old Net Name=NetDD14_24 New Net Name=NetDD13_24
+Change Net Name : Old Net Name=NetDD14_26 New Net Name=NetDD13_26
+Change Net Name : Old Net Name=NetDD14_27 New Net Name=NetDD13_27
+Change Net Name : Old Net Name=NetDD14_28 New Net Name=NetDD13_28
+Change Net Name : Old Net Name=NetDD14_29 New Net Name=NetDD13_29
+Change Net Name : Old Net Name=NetDD14_30 New Net Name=NetDD13_30
+Change Net Name : Old Net Name=NetDD14_31 New Net Name=NetDD13_31
+Change Net Name : Old Net Name=NetDD14_32 New Net Name=NetDD13_32
+Change Net Name : Old Net Name=NetDD14_33 New Net Name=NetDD13_33
+Change Net Name : Old Net Name=NetDD14_34 New Net Name=NetDD13_34
+Change Net Name : Old Net Name=NetDD14_35 New Net Name=NetDD13_35
+Change Net Name : Old Net Name=NetDD14_38 New Net Name=NetDD13_38
+Change Net Name : Old Net Name=NetDD14_39 New Net Name=NetDD13_39
+Change Net Name : Old Net Name=NetDD14_40 New Net Name=NetDD13_40
+Change Net Name : Old Net Name=NetDD14_41 New Net Name=NetDD13_41
+Change Net Name : Old Net Name=NetDD14_43 New Net Name=NetDD13_43
+Change Net Name : Old Net Name=NetDD14_44 New Net Name=NetDD13_44
+Change Net Name : Old Net Name=NetDD14_45 New Net Name=NetDD13_45
+Change Net Name : Old Net Name=NetDD14_46 New Net Name=NetDD13_46
+Added Member To Class: ClassName=PLC1_3 Member=Component XP7 WF-16MR

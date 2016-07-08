@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=ADC12_IN6 Pin=DD1-52
+Removed Pin From Net: NetName=ADC12_IN7 Pin=DD1-53
+Removed Pin From Net: NetName=GND Pin=XP6-3
+Removed Pin From Net: NetName=CANH1 Pin=XP6-4
+Removed Pin From Net: NetName=CANL1 Pin=XP6-5
+Removed Pin From Net: NetName=+24V Pin=XP6-6
+Removed Pin From Net: NetName=CANH2 Pin=XP6-7
+Removed Pin From Net: NetName=CANL2 Pin=XP6-8
+Removed Pin From Net: NetName=NetR67_1 Pin=XP6-9
+Removed Pin From Net: NetName=NetR64_1 Pin=XP6-10
+Removed Pin From Net: NetName=NetVD8_2 Pin=XP6-11
+Removed Pin From Net: NetName=NetVD10_2 Pin=XP6-12
+Added Pin To Net: NetName=ADC12_IN7 Pin=DD1-52
+Added Pin To Net: NetName=ADC12_IN6 Pin=DD1-53
+Added Pin To Net: NetName=CANH1 Pin=XP6-3
+Added Pin To Net: NetName=CANL1 Pin=XP6-4
+Added Pin To Net: NetName=CANH2 Pin=XP6-5
+Added Pin To Net: NetName=CANL2 Pin=XP6-6
+Added Pin To Net: NetName=NetR67_1 Pin=XP6-7
+Added Pin To Net: NetName=NetR64_1 Pin=XP6-8
+Added Pin To Net: NetName=NetVD8_2 Pin=XP6-9
+Added Pin To Net: NetName=NetVD10_2 Pin=XP6-10
+Added Pin To Net: NetName=+24V Pin=XP6-11
+Added Pin To Net: NetName=GND Pin=XP6-12
+Change Net Name : Old Net Name=ADC12_IN6 New Net Name=ADC12_IN7
+Change Net Name : Old Net Name=ADC12_IN7 New Net Name=ADC12_IN6
+Change Net Name : Old Net Name=SW New Net Name=NetDA3_14

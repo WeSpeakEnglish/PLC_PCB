@@ -1,0 +1,131 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 23 0 2)
+System Name        : Windows_NT
+Machine Name       : KO765
+User Name          : ATert
+Source System      : IGES
+Destination System : ACIS
+Input File         : E:\PLC\MONITOR\PROJECT\MODELS\My\iONISTER.igs
+Output File        : C:\Users\ATert\AppData\Local\Temp\Convert\~_EB1B.asat
+Start Time         : Thu Dec 03 15:12:13 2015
+
+--------------------------------------------------------------------------------
+----------------------------Source File Scan Summary----------------------------
+
+Entity     No.Entity Type        Count    Support    Roots    Hidden    Mask-Ex
+
+102  Composite Curve               534      Supported  534         0       0
+110  Line                          1602     Supported 1602         0       0
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : TranslateWorkPlanes : false
+Message : TranslateFreePoints : true
+Message : TranslateHiddenEntities : false
+Message : TranslateFreeCurves : true
+Message : TranslateAttributes : true
+Message : Representation : BRep
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : Flatten : true
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Date+Time of Creation    : 151203.151146
+Modification Date        : 03 DEC 15
+File Name                : ,
+Author                   : Not Specified
+Organization             : Unspecified
+Source System            : 3D Object Converter IGES Export
+Sending Product ID       : ,
+Receiving System ID      : IGES Import
+Preprocessor Version     : 1.0
+Version                  : ASME/ANSI Y14.26M - 1987
+Units                    : MM
+Units ID                 : 2
+Tolerance                : 0.000100
+Maximum Coordinate       : 5.780000
+Model Scale              : 1.000000
+Line Weight              : 1
+Line Width               : 1.000000
+Document Type            : Part
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+----------------------------Source File Scan Summary----------------------------
+
+Entity     No.Entity Type        Count    Support    Roots    Hidden    Mask-Ex
+
+102  Composite Curve               534      Supported  534         0       0
+110  Line                          1602     Supported 1602         0       0
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Acorn Bodies                       :    0
+No. of Mixed Bodies                       :    0
+No. of Solid Bodies                       :    0
+No. of Wire Bodies                        :    2136
+No. of Free Surfaces                      :    0
+No. of Free Curves                        :    0
+No. of Sheet Bodies                       :    0
+No. of Free Points                        :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+No. of Working Coordinate Systems         :    0
+No. of Associative Groups                 :    0
+No. of Layer Filters                      :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    2136
+--------------------------------------------------------------------------------
+Warning : Output ACIS file extension has been replaced from "asat" to "sab" according to the contents of the saving ACIS document
+Message : Setting save mode for ACIS file based on the file extension
+Output File "C:\Users\ATert\AppData\Local\Temp\Convert\~_EB1B.asat" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Thu Dec 03 15:12:15 2015
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------

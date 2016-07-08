@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=PLC1_2 Member=C58
+Removed Member From Class: ClassName=PLC1 Member=C59
+Removed Member From Class: ClassName=PLC1 Member=C60
+Removed Member From Class: ClassName=PLC1_2 Member=C89
+Removed Member From Class: ClassName=PLC1_3 Member=C107
+Removed Member From Class: ClassName=PLC1_3 Member=C108
+Added Pin To Net: NetName=VDD_USB Pin=XS4-1
+Added Member To Class: ClassName=PLC1 Member=Component C32 1206
+Added Member To Class: ClassName=PLC1 Member=Component C35 1206
+Added Member To Class: ClassName=PLC1_2 Member=Component C87 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C105 0.1uF
+Added Member To Class: ClassName=PLC1_3 Member=Component C106 0.22 F

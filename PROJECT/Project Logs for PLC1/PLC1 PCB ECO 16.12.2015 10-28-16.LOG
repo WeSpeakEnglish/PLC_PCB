@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=VD3 Old Footprint=SZD55C9V1C New Footprint=DO-214AC
+Change Component Comment : Designator=VD3 Old Comment=SZD55C9V1C New Comment=BZG05C3V3TR3
+Change Component Designator: OldDesignator=DA9 NewDesignator=DA8
+Change Component Designator: OldDesignator=DA10 NewDesignator=DA9
+Change Component Designator: OldDesignator=DA11 NewDesignator=DA10
+Change Component Designator: OldDesignator=DA NewDesignator=DA11
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD14
+Change Component Designator: OldDesignator=XS5 NewDesignator=XS4
+Change Component Designator: OldDesignator=XS6 NewDesignator=XS5
+Change Net Name : Old Net Name=NetDA9_4 New Net Name=NetDA8_4
+Change Net Name : Old Net Name=NetDA9_5 New Net Name=NetDA8_5
+Change Net Name : Old Net Name=NetDA10_1 New Net Name=NetDA9_1
+Change Net Name : Old Net Name=NetDA10_3 New Net Name=NetDA9_3
+Change Net Name : Old Net Name=NetDA10_5 New Net Name=NetDA9_5
+Change Net Name : Old Net Name=NetDA10_7 New Net Name=NetDA9_7
+Change Net Name : Old Net Name=NetDA11_1 New Net Name=NetDA10_1
+Change Net Name : Old Net Name=NetDA11_3 New Net Name=NetDA10_3
+Change Net Name : Old Net Name=NetDA11_5 New Net Name=NetDA10_5
+Change Net Name : Old Net Name=NetDA11_7 New Net Name=NetDA10_7
+Change Net Name : Old Net Name=NetDA_6 New Net Name=NetDA11_6
+Change Net Name : Old Net Name=NetDA_10 New Net Name=NetDA11_10

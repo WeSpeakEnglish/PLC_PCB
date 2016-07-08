@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=-7V NewDesignator=TP8
+Change Component Designator: OldDesignator=1,8VA NewDesignator=TP5
+Change Component Designator: OldDesignator=1,8VD NewDesignator=TP6
+Change Component Designator: OldDesignator=5V NewDesignator=TP2
+Change Component Designator: OldDesignator=10,4V NewDesignator=TP1
+Change Component Designator: OldDesignator=16V NewDesignator=TP7
+Change Component Designator: OldDesignator=LEDV NewDesignator=TP3
+Change Component Designator: OldDesignator=VCC NewDesignator=TP4
+Added Member To Class: ClassName=PLC1_3 Member=Component XP6 JUMPER

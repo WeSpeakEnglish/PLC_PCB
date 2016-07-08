@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetDD10_8 Pin=R39-1
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=NetDD9_8 Pin=R40-2
+Change Component Footprint: Designator=R39 Old Footprint=CAP_0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R40 Old Footprint=CAP_0603 New Footprint=RES_0603
+Change Component Comment : Designator=R39 Old Comment=4,7k New Comment=10k
+Change Component Comment : Designator=R40 Old Comment=4,7k New Comment=10k
+Added Pin To Net: NetName=NetDD9_8 Pin=R39-1
+Added Pin To Net: NetName=NetDD10_8 Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R40-2

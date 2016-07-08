@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=PLC1 Member=BQ1
+Removed Member From Class: ClassName=PLC1 Member=BQ2
+Removed Member From Class: ClassName=PLC1 Member=DD1
+Added Member To Class: ClassName=PLC1 Member=Component C2 0,1uF
+Added Member To Class: ClassName=PLC1 Member=Component C3 0.1uF
+Added Member To Class: ClassName=PLC1 Member=Component C4 100
+Added Member To Class: ClassName=PLC1 Member=Component C5 0.1uF
+Added Member To Class: ClassName=PLC1 Member=Component C6 4.7 uF
+Added Member To Class: ClassName=PLC1 Member=Component C7 0.1uF
+Added Member To Class: ClassName=PLC1 Member=Component C8 0.1uF
+Added Member To Class: ClassName=PLC1 Member=Component C9 0.1uF

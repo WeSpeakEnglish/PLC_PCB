@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=PLC1_3 Member=DD14
+Removed Member From Class: ClassName=PLC1_4 Member=R66
+Removed Member From Class: ClassName=PLC1_4 Member=R68
+Change Component Footprint: Designator=XP7 Old Footprint=PLS12-R New Footprint=2-row-2.54-12
+Change Component Comment : Designator=XP7 Old Comment=PLS12-R New Comment=2-row-12-2.54
+Added Pin To Net: NetName=+24V Pin=XP5-1
+Added Pin To Net: NetName=+24V Pin=XP5-2
+Added Member To Class: ClassName=PLC1_3 Member=Component DD11 DS18B20+T&R
+Added Member To Class: ClassName=PLC1_3 Member=Component R52 22
+Added Member To Class: ClassName=PLC1_3 Member=Component R53 4,7k
+Added Member To Class: ClassName=PLC1_4 Member=Component R71 Res_0402
+Added Member To Class: ClassName=PLC1_4 Member=Component R72 Res_0402

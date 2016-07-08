@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=DA12-5
+Removed Pin From Net: NetName=AUD- Pin=DA12-6
+Removed Pin From Net: NetName=GND Pin=DA12-7
+Removed Pin From Net: NetName=GND Pin=DA12-8
+Removed Pin From Net: NetName=AUD+ Pin=DA12-10
+Change Component Footprint: Designator=DA12 Old Footprint=S-PDSO-G10 New Footprint=CAP_0603
+Change Component Comment : Designator=DA12 Old Comment=LM4667MM/NOPB New Comment=0.1uF
+Change Component Designator: OldDesignator=C115 NewDesignator=C116
+Change Component Designator: OldDesignator=C116 NewDesignator=C115
+Change Component Designator: OldDesignator=C117 NewDesignator=C118
+Change Component Designator: OldDesignator=C118 NewDesignator=C119
+Change Component Designator: OldDesignator=C119 NewDesignator=C120
+Change Component Designator: OldDesignator=C120 NewDesignator=C121
+Change Component Designator: OldDesignator=C121 NewDesignator=C122
+Change Component Designator: OldDesignator=C122 NewDesignator=C123
+Change Component Designator: OldDesignator=C123 NewDesignator=C124
+Change Component Designator: OldDesignator=C124 NewDesignator=C125
+Change Component Designator: OldDesignator=C125 NewDesignator=C126
+Change Component Designator: OldDesignator=C126 NewDesignator=C127
+Change Component Designator: OldDesignator=C127 NewDesignator=C128
+Change Component Designator: OldDesignator=C128 NewDesignator=C129
+Change Component Designator: OldDesignator=C129 NewDesignator=C130
+Change Component Designator: OldDesignator=DA12 NewDesignator=C117
+Added Component: Designator=DA12(S-PDSO-G10)
+Added Pin To Net: NetName=GND Pin=C117-2
+Added Pin To Net: NetName=GND Pin=DA12-5
+Added Pin To Net: NetName=AUD- Pin=DA12-6
+Added Pin To Net: NetName=GND Pin=DA12-7
+Added Pin To Net: NetName=GND Pin=DA12-8
+Added Pin To Net: NetName=AUD+ Pin=DA12-10
+Change Net Name : Old Net Name=NetC126_1 New Net Name=NetC127_1
+Change Net Name : Old Net Name=NetC126_2 New Net Name=NetC127_2
+Change Net Name : Old Net Name=NetC127_1 New Net Name=NetC128_1
+Change Net Name : Old Net Name=NetC127_2 New Net Name=NetC128_2
+Change Net Name : Old Net Name=NetC128_1 New Net Name=NetC129_1
+Change Net Name : Old Net Name=NetC128_2 New Net Name=NetC129_2
+Change Net Name : Old Net Name=NetC129_1 New Net Name=NetC130_1
+Change Net Name : Old Net Name=NetC129_2 New Net Name=NetC130_2
+Added Pin To Net: NetName=NetC115_2 Pin=C115-2
+Added Pin To Net: NetName=NetC115_2 Pin=DA12-2
+Added Net: Name=NetC115_2
+Added Pin To Net: NetName=NetC116_1 Pin=C116-1
+Added Pin To Net: NetName=NetC116_1 Pin=C117-1
+Added Pin To Net: NetName=NetC116_1 Pin=DA12-4
+Added Net: Name=NetC116_1
+Added Pin To Net: NetName=NetC118_2 Pin=C118-2
+Added Pin To Net: NetName=NetC118_2 Pin=DA12-1
+Added Pin To Net: NetName=NetC118_2 Pin=DA12-9
+Added Pin To Net: NetName=NetC118_2 Pin=L13-2
+Added Net: Name=NetC118_2
+Added Member To Class: ClassName=PLC1_4 Member=Component C130 0.1uF

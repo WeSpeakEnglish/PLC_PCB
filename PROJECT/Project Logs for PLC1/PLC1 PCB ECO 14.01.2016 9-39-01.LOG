@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC111_1 Pin=C49-2
+Added Pin To Net: NetName=NetC111_1 Pin=DA7-2
+Change Net Name : Old Net Name=NetC111_1 New Net Name=VDD18
+Added Member To Class: ClassName=PLC1_4 Member=Component C111 0.1uF
+Added Member To Class: ClassName=PLC1_4 Member=Component C112 0.1uF

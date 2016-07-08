@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=PLC1_3 Member=R75
+Removed Member From Class: ClassName=PLC1_3 Member=R77
+Removed Member From Class: ClassName=PLC1_3 Member=R79
+Change Component Footprint: Designator=XP6 Old Footprint=2-row-2.54-12 New Footprint=2-row-2.54-16
+Change Component Comment : Designator=XP6 Old Comment=2-row-12-2.54 New Comment=2-row-16-2.54
+Added Member To Class: ClassName=PLC1_3 Member=Component R62 390
+Added Member To Class: ClassName=PLC1_3 Member=Component R63 390
+Added Member To Class: ClassName=PLC1_3 Member=Component R64 390

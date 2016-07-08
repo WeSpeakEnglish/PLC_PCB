@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+24V Pin=XP5-1
+Removed Pin From Net: NetName=NetVT1_2 Pin=XP5-3
+Removed Pin From Net: NetName=NetVT1_2 Pin=XP5-4
+Change Component Footprint: Designator=XP5 Old Footprint=PLS4-R New Footprint=WF-02MR
+Change Component Footprint: Designator=XP1 Old Footprint=WF-6MR New Footprint=WF-06MR
+Change Component Comment : Designator=XP5 Old Comment=PLS4-R New Comment=WF-02MR
+Change Component Comment : Designator=XP1 Old Comment=WF-6MR New Comment=WF-06MR
+Added Pin To Net: NetName=NetVT1_2 Pin=XP5-1
+Added Member To Class: ClassName=PLC1_3 Member=Component XS5 IPEX/U.FL

@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetBQ3_1 Pin=BQ3-1
+Removed Pin From Net: NetName=NetBQ3_2 Pin=BQ3-2
+Removed Pin From Net: NetName=MEM_D0 Pin=DD6-26
+Removed Pin From Net: NetName=MEM_D8 Pin=DD6-27
+Removed Pin From Net: NetName=MEM_D1 Pin=DD6-28
+Removed Pin From Net: NetName=MEM_D9 Pin=DD6-29
+Removed Pin From Net: NetName=MEM_D2 Pin=DD6-30
+Removed Pin From Net: NetName=MEM_D10 Pin=DD6-31
+Removed Pin From Net: NetName=MEM_D11 Pin=DD6-33
+Removed Pin From Net: NetName=MEM_D4 Pin=DD6-40
+Removed Pin From Net: NetName=MEM_D12 Pin=DD6-41
+Removed Pin From Net: NetName=MEM_D13 Pin=DD6-43
+Removed Pin From Net: NetName=MEM_D6 Pin=DD6-44
+Removed Pin From Net: NetName=MEM_D14 Pin=DD6-45
+Removed Pin From Net: NetName=MEM_D7 Pin=DD6-46
+Removed Pin From Net: NetName=MEM_D15 Pin=DD6-47
+Removed Pin From Net: NetName=NetDD12_11 Pin=XP8-1
+Removed Pin From Net: NetName=GND Pin=XP8-2
+Removed Pin From Net: NetName=GND Pin=XP8-2
+Removed Pin From Net: NetName=NetC103_1 Pin=XP9-1
+Removed Pin From Net: NetName=NetC105_2 Pin=XP10-1
+Removed Pin From Net: NetName=NetC106_2 Pin=XP11-1
+Removed Pin From Net: NetName=GNDA Pin=XP11-2
+Removed Pin From Net: NetName=GNDA Pin=XP11-2
+Removed Pin From Net: NetName=NetC104_2 Pin=XP12-1
+Removed Member From Class: ClassName=PLC1_4 Member=DA10
+Removed Member From Class: ClassName=PLC1_3 Member=XP8
+Removed Member From Class: ClassName=PLC1_4 Member=XP11
+Change Component Footprint: Designator=BQ2 Old Footprint=Crystal_0532 New Footprint=TSX-3225
+Change Component Footprint: Designator=BQ3 Old Footprint=Crystal_0532 New Footprint=TSX-3225
+Change Component Comment : Designator=XS1 Old Comment=100ZFS-RL-04 New Comment=84952-4
+Change Component Comment : Designator=XS2 Old Comment=FCI 62684-502100ALF New Comment=MOLEX  54104-5033
+Change Component Comment : Designator=BQ2 Old Comment=FXMJ-25.000-18 New Comment=TSX-3225
+Change Component Comment : Designator=BQ3 Old Comment=FXMJ-25.000-18 New Comment=TSX-3225
+Change Component Comment : Designator=DD6 Old Comment=NAND512W4A0BN6 New Comment=
+Change Component Designator: OldDesignator=DD4 NewDesignator=DD5
+Change Component Designator: OldDesignator=DD5 NewDesignator=DD6
+Change Component Designator: OldDesignator=DD6 NewDesignator=DD4
+Change Component Designator: OldDesignator=XP8 NewDesignator=XS8
+Change Component Designator: OldDesignator=XP9 NewDesignator=XS9
+Change Component Designator: OldDesignator=XP10 NewDesignator=XS10
+Change Component Designator: OldDesignator=XP11 NewDesignator=XS5
+Change Component Designator: OldDesignator=XP12 NewDesignator=XS7
+Change Component Designator: OldDesignator=XS5 NewDesignator=XS6
+Added Pin To Net: NetName=NetBQ3_2 Pin=BQ3-1
+Added Pin To Net: NetName=NetBQ3_1 Pin=BQ3-2
+Added Pin To Net: NetName=MEM_D0 Pin=DD4-29
+Added Pin To Net: NetName=MEM_D1 Pin=DD4-30
+Added Pin To Net: NetName=MEM_D2 Pin=DD4-31
+Added Pin To Net: NetName=MEM_D4 Pin=DD4-41
+Added Pin To Net: NetName=MEM_D6 Pin=DD4-43
+Added Pin To Net: NetName=MEM_D7 Pin=DD4-44
+Added Pin To Net: NetName=NetDD12_11 Pin=XS5-1
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=NetC103_1 Pin=XS7-1
+Added Pin To Net: NetName=NetC105_2 Pin=XS8-1
+Added Pin To Net: NetName=GNDA Pin=XS8-2
+Added Pin To Net: NetName=GNDA Pin=XS8-2
+Added Pin To Net: NetName=NetC106_2 Pin=XS9-1
+Added Pin To Net: NetName=NetC104_2 Pin=XS10-1
+Change Net Name : Old Net Name=NetBQ3_1 New Net Name=NetBQ3_2
+Change Net Name : Old Net Name=NetBQ3_2 New Net Name=NetBQ3_1
+Added Member To Class: ClassName=PLC1_4 Member=Component DA11 LM4667MM/NOPB
+Added Member To Class: ClassName=PLC1_3 Member=Component XS5 IPEX/U.FL
+Added Member To Class: ClassName=PLC1_4 Member=Component XS8 IPEX/U.FL

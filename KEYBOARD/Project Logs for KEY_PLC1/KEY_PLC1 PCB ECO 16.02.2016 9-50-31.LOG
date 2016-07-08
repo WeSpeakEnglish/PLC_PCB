@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetHL17_2 Pin=XS1-7
+Added Component: Designator=HL18(LED_0805R)
+Added Component: Designator=R17(RES_0603)
+Added Component: Designator=R18(RES_0603)
+Added Pin To Net: NetName=NetHL17_1 Pin=HL18-2
+Added Pin To Net: NetName=NetHL17_2 Pin=R17-1
+Added Pin To Net: NetName=NetHL18_1 Pin=HL18-1
+Added Pin To Net: NetName=NetHL18_1 Pin=R18-1
+Added Net: Name=NetHL18_1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R18-2
+Added Pin To Net: NetName=NetR17_2 Pin=XS1-7
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL18 BL-LS0805UHR
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R17 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R18 390

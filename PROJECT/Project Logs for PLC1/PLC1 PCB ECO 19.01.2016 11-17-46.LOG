@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=PLC1_3 Member=XS6
+Change Component Footprint: Designator=XS4 Old Footprint=CONN_2.54_6 New Footprint=WF-6MR
+Change Component Comment : Designator=XS4 Old Comment=CONNECT_2.54_6 New Comment=WF-6MR
+Change Component Designator: OldDesignator=XP1 NewDesignator=XP2
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP3
+Change Component Designator: OldDesignator=XP3 NewDesignator=XP4
+Change Component Designator: OldDesignator=XP4 NewDesignator=XP5
+Change Component Designator: OldDesignator=XP5 NewDesignator=XP6
+Change Component Designator: OldDesignator=XS4 NewDesignator=XP1
+Change Component Designator: OldDesignator=XS5 NewDesignator=XS4
+Change Component Designator: OldDesignator=XS6 NewDesignator=XS5
+Change Component Designator: OldDesignator=XS7 NewDesignator=XS6
+Change Component Designator: OldDesignator=XS8 NewDesignator=XS7
+Change Component Designator: OldDesignator=XS9 NewDesignator=XS8
+Change Component Designator: OldDesignator=XS10 NewDesignator=XS9
+Added Member To Class: ClassName=PLC1_3 Member=Component XP6 WF-16MR

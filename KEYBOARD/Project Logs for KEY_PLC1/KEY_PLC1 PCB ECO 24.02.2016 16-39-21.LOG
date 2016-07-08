@@ -1,0 +1,48 @@
+Change Component DesignItemId : Designator=SB1 Old DesignItemId=SWT-10 New DesignItemId=1181
+Change Component DesignItemId : Designator=SB3 Old DesignItemId=SWT-10 New DesignItemId=1181
+Change Component DesignItemId : Designator=SB5 Old DesignItemId=SWT-10 New DesignItemId=1181
+Change Component DesignItemId : Designator=SB7 Old DesignItemId=SWT-10 New DesignItemId=1181
+Change Component Footprint: Designator=SB1 Old Footprint=SWT-10 New Footprint=1181
+Change Component Footprint: Designator=SB3 Old Footprint=SWT-10 New Footprint=1181
+Change Component Footprint: Designator=SB5 Old Footprint=SWT-10 New Footprint=1181
+Change Component Footprint: Designator=SB7 Old Footprint=SWT-10 New Footprint=1181
+Change Component Comment : Designator=R1 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R2 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R3 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R4 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R5 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R6 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R7 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R8 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R9 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R10 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R11 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R12 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R13 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R14 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R15 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R16 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R17 Old Comment=390 New Comment=150
+Change Component Comment : Designator=R18 Old Comment=390 New Comment=150
+Change Component Comment : Designator=SB1 Old Comment=SWT-10 New Comment=1181
+Change Component Comment : Designator=SB3 Old Comment=SWT-10 New Comment=1181
+Change Component Comment : Designator=SB5 Old Comment=SWT-10 New Comment=1181
+Change Component Comment : Designator=SB7 Old Comment=SWT-10 New Comment=1181
+Change Component Description : Designator=R1 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R2 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R3 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R4 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R5 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R6 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R7 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R8 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R9 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R10 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R11 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R12 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R13 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R14 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R15 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R16 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R17 Old Description=0603, 390 New Description=0603, 150
+Change Component Description : Designator=R18 Old Description=0603, 390 New Description=0603, 150

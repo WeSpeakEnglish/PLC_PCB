@@ -1,0 +1,176 @@
+Added Component: Designator=HL1(LED_0805)
+Added Component: Designator=HL2(LED_0805)
+Added Component: Designator=HL3(LED_0805)
+Added Component: Designator=HL4(LED_0805)
+Added Component: Designator=HL5(LED_0805)
+Added Component: Designator=HL6(LED_0805)
+Added Component: Designator=HL7(LED_0805)
+Added Component: Designator=HL8(LED_0805)
+Added Component: Designator=HL9(LED_0805)
+Added Component: Designator=HL10(LED_0805)
+Added Component: Designator=HL11(LED_0805)
+Added Component: Designator=HL12(LED_0805)
+Added Component: Designator=HL13(LED_0805)
+Added Component: Designator=HL14(LED_0805)
+Added Component: Designator=HL15(LED_0805)
+Added Component: Designator=HL16(LED_0805)
+Added Component: Designator=HL17(LED_0805G)
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R2(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=R4(RES_0603)
+Added Component: Designator=R5(RES_0603)
+Added Component: Designator=R6(RES_0603)
+Added Component: Designator=R7(RES_0603)
+Added Component: Designator=R8(RES_0603)
+Added Component: Designator=R9(RES_0603)
+Added Component: Designator=R10(RES_0603)
+Added Component: Designator=R11(RES_0603)
+Added Component: Designator=R12(RES_0603)
+Added Component: Designator=R13(RES_0603)
+Added Component: Designator=R14(RES_0603)
+Added Component: Designator=R15(RES_0603)
+Added Component: Designator=R16(RES_0603)
+Added Component: Designator=SB1(SWT-10)
+Added Component: Designator=SB2(SWT-10)
+Added Component: Designator=SB3(SWT-10)
+Added Component: Designator=SB4(SWT-10)
+Added Component: Designator=SB5(SWT-10)
+Added Component: Designator=SB6(SWT-10)
+Added Component: Designator=SB7(SWT-10)
+Added Component: Designator=SB8(SWT-10)
+Added Component: Designator=XS1(52808-1070)
+Added Pin To Net: NetName=GND Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=GND Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=GND Pin=HL4-1
+Added Pin To Net: NetName=NetHL4_2 Pin=HL4-2
+Added Pin To Net: NetName=GND Pin=HL5-1
+Added Pin To Net: NetName=NetHL5_2 Pin=HL5-2
+Added Pin To Net: NetName=GND Pin=HL6-1
+Added Pin To Net: NetName=NetHL6_2 Pin=HL6-2
+Added Pin To Net: NetName=GND Pin=HL7-1
+Added Pin To Net: NetName=NetHL7_2 Pin=HL7-2
+Added Pin To Net: NetName=GND Pin=HL8-1
+Added Pin To Net: NetName=NetHL8_2 Pin=HL8-2
+Added Pin To Net: NetName=GND Pin=HL9-1
+Added Pin To Net: NetName=NetHL9_2 Pin=HL9-2
+Added Pin To Net: NetName=GND Pin=HL10-1
+Added Pin To Net: NetName=NetHL10_2 Pin=HL10-2
+Added Pin To Net: NetName=GND Pin=HL11-1
+Added Pin To Net: NetName=NetHL11_2 Pin=HL11-2
+Added Pin To Net: NetName=GND Pin=HL12-1
+Added Pin To Net: NetName=NetHL12_2 Pin=HL12-2
+Added Pin To Net: NetName=GND Pin=HL13-1
+Added Pin To Net: NetName=NetHL13_2 Pin=HL13-2
+Added Pin To Net: NetName=GND Pin=HL14-1
+Added Pin To Net: NetName=NetHL14_2 Pin=HL14-2
+Added Pin To Net: NetName=GND Pin=HL15-1
+Added Pin To Net: NetName=NetHL15_2 Pin=HL15-2
+Added Pin To Net: NetName=GND Pin=HL16-1
+Added Pin To Net: NetName=NetHL16_2 Pin=HL16-2
+Added Pin To Net: NetName=NetHL17_1 Pin=HL17-1
+Added Pin To Net: NetName=NetHL17_2 Pin=HL17-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R1-1
+Added Pin To Net: NetName=VL Pin=R1-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R2-1
+Added Pin To Net: NetName=VL Pin=R2-2
+Added Pin To Net: NetName=NetHL3_2 Pin=R3-1
+Added Pin To Net: NetName=VL Pin=R3-2
+Added Pin To Net: NetName=NetHL4_2 Pin=R4-1
+Added Pin To Net: NetName=VL Pin=R4-2
+Added Pin To Net: NetName=NetHL5_2 Pin=R5-1
+Added Pin To Net: NetName=VL Pin=R5-2
+Added Pin To Net: NetName=NetHL6_2 Pin=R6-1
+Added Pin To Net: NetName=VL Pin=R6-2
+Added Pin To Net: NetName=NetHL7_2 Pin=R7-1
+Added Pin To Net: NetName=VL Pin=R7-2
+Added Pin To Net: NetName=NetHL8_2 Pin=R8-1
+Added Pin To Net: NetName=VL Pin=R8-2
+Added Pin To Net: NetName=NetHL9_2 Pin=R9-1
+Added Pin To Net: NetName=VL Pin=R9-2
+Added Pin To Net: NetName=NetHL10_2 Pin=R10-1
+Added Pin To Net: NetName=VL Pin=R10-2
+Added Pin To Net: NetName=NetHL11_2 Pin=R11-1
+Added Pin To Net: NetName=VL Pin=R11-2
+Added Pin To Net: NetName=NetHL12_2 Pin=R12-1
+Added Pin To Net: NetName=VL Pin=R12-2
+Added Pin To Net: NetName=NetHL13_2 Pin=R13-1
+Added Pin To Net: NetName=VL Pin=R13-2
+Added Pin To Net: NetName=NetHL14_2 Pin=R14-1
+Added Pin To Net: NetName=VL Pin=R14-2
+Added Pin To Net: NetName=NetHL15_2 Pin=R15-1
+Added Pin To Net: NetName=VL Pin=R15-2
+Added Pin To Net: NetName=NetHL16_2 Pin=R16-1
+Added Pin To Net: NetName=VL Pin=R16-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_2 Pin=SB1-2
+Added Pin To Net: NetName=NetSB1_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_2 Pin=SB2-2
+Added Pin To Net: NetName=NetSB3_1 Pin=SB3-1
+Added Pin To Net: NetName=NetSB1_2 Pin=SB3-2
+Added Pin To Net: NetName=NetSB3_1 Pin=SB4-1
+Added Pin To Net: NetName=NetSB2_2 Pin=SB4-2
+Added Pin To Net: NetName=NetSB5_1 Pin=SB5-1
+Added Pin To Net: NetName=NetSB1_2 Pin=SB5-2
+Added Pin To Net: NetName=NetSB5_1 Pin=SB6-1
+Added Pin To Net: NetName=NetSB2_2 Pin=SB6-2
+Added Pin To Net: NetName=NetSB7_1 Pin=SB7-1
+Added Pin To Net: NetName=NetSB1_2 Pin=SB7-2
+Added Pin To Net: NetName=NetSB7_1 Pin=SB8-1
+Added Pin To Net: NetName=NetSB2_2 Pin=SB8-2
+Added Pin To Net: NetName=NetSB7_1 Pin=XS1-1
+Added Pin To Net: NetName=NetSB5_1 Pin=XS1-2
+Added Pin To Net: NetName=NetSB3_1 Pin=XS1-3
+Added Pin To Net: NetName=NetSB1_1 Pin=XS1-4
+Added Pin To Net: NetName=NetSB1_2 Pin=XS1-5
+Added Pin To Net: NetName=NetSB2_2 Pin=XS1-6
+Added Pin To Net: NetName=NetHL17_2 Pin=XS1-7
+Added Pin To Net: NetName=NetHL17_1 Pin=XS1-8
+Added Pin To Net: NetName=VL Pin=XS1-9
+Added Pin To Net: NetName=GND Pin=XS1-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL1 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL2 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL3 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL4 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL5 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL6 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL7 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL8 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL9 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL10 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL11 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL12 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL13 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL14 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL15 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL16 BL-LS0805UYC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component HL17 BL-LS0805PGC
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R1 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R2 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R3 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R4 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R5 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R6 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R7 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R8 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R9 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R10 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R11 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R12 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R13 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R14 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R15 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component R16 390
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB1 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB2 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB3 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB4 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB5 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB6 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB7 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component SB8 SWT-10
+Added Member To Class: ClassName=KEY_PLC1 Member=Component XS1 52808-1070
